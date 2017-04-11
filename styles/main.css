@@ -346,7 +346,8 @@ section#content #work-bio #links #home {
 }
 section#content #work-visuals {
   float: right;
-  width: 60%
+  padding-right: 100px;
+  width: 50%
 }
 section#content #work-visuals ul {
   list-style: none
