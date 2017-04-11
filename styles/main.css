@@ -43,7 +43,7 @@ body {
   -ms-text-size-adjust: none;
   -webkit-text-size-adjust: none;
   background-color: #fff;
-  font: normal normal 62.5%/1em 'Source Sans Pro', sans-serif;
+  font: normal normal 62.5%/1em sans-serif;
   font-size: 62.5%;
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
@@ -110,7 +110,7 @@ section#content #preamble, section#content article {
 }
 section#content #preamble h1, section#content article h1 {
   color: #212328;
-  font: 300 22px/1.2em Source Sans Pro, sans-serif;
+  font: 300 22px/1.2em sans-serif;
   padding-bottom: 1em
 }
 section#content #preamble h2, section#content article h2 {
@@ -124,7 +124,7 @@ section#content #preamble h3, section#content article h3 {
 }
 section#content #preamble p, section#content article p {
   color: #80807e;
-  font: 300 15px/1.2em Source Sans Pro, sans-serif;
+  font: 300 15px/1.2em sans-serif;
   padding-bottom: 1em
 }
 section#content #preamble p.space-after, section#content article p.space-after {
@@ -132,7 +132,7 @@ section#content #preamble p.space-after, section#content article p.space-after {
 }
 section#content #preamble .em, section#content article .em {
   color: #80807e;
-  font: 300 22px/1.2em Source Sans Pro, sans-serif;
+  font: 300 22px/1.2em sans-serif;
   padding-bottom: 1em
 }
 section#content #preamble a, section#content article a {
@@ -216,12 +216,12 @@ section#content #our-work ul li .overlay summary {
 }
 section#content #our-work ul li .overlay summary h2 {
   color: #fff;
-  font: 400 20px/1em Source Sans Pro, sans-serif;
+  font: 400 20px/1em sans-serif;
   padding-bottom: 15px
 }
 section#content #our-work ul li .overlay summary h3 {
   color: #098aa5;
-  font: 300 15px/0.9em Source Sans Pro, sans-serif;
+  font: 300 15px/0.9em sans-serif;
   padding-top: 12px
 }
 section#content #our-work ul li .overlay .loves {
@@ -362,7 +362,7 @@ section#content #work-visuals ul li img {
 section#content #preamble a.read-more {
   border-style: none;
   color: #212328;
-  font: 300 15px/1.4em Source Sans Pro, sans-serif;
+  font: 300 15px/1.4em sans-serif;
   text-decoration: none
 }
 section#content #preamble a.read-more:hover {
@@ -380,7 +380,7 @@ section #what-we-do article {
 }
 section #what-we-do article h2 {
   color: #212328;
-  font: 300 22px/1.2em Source Sans Pro, sans-serif
+  font: 300 22px/1.2em ans-serif
 }
 section#content footer#msf {
   bottom: 0;
@@ -404,7 +404,7 @@ footer#msf ul#lets-be-social li {
 }
 footer#msf div#legal {
   float: right;
-  font: 400 15px/1em Source Sans Pro, sans-serif;
+  font: 400 15px/1em sans-serif;
   text-align: right;
   width: 300px
 }
